@@ -8,9 +8,9 @@
     4. pandas 
     5. numpy
     
----
-## Running this Webapp
+
+## Running the Webapp
 
 * Clone this repository to your local machine.
 * Create a virtual environment and install the above packages using pip.
-* run the app using:  `streamlit run app.py`
+* Run the app using:  `streamlit run app.py`
